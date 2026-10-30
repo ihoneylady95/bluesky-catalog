@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://ihoneylady95.github.io/bluesky-catalog/sitemap.xml
