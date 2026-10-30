@@ -10,7 +10,7 @@ HANDLE = "ai-models.bsky.social"
 PROFILE = f"https://bsky.app/profile/{HANDLE}"
 
 # ОБЯЗАТЕЛЬНО укажи свой настоящий адрес GitHub Pages
-SITE_URL = "".rstrip("/")
+SITE_URL = "https://ihoneylady95.github.io/bluesky-catalog".rstrip("/")
 
 API = "https://public.api.bsky.app/xrpc"
 OUT = Path(".")
